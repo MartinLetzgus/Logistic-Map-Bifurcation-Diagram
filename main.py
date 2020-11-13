@@ -32,11 +32,6 @@ plt.xlim([xmin, xmax])
 if (len(y_limits)!='default'):
     plt.ylim(y_limits)
 
-if with_lines:
-    plt.axvline(x=1, ymin=0, ymax=1, c='r')
-    plt.axvline(x=3, ymin=0, ymax=1, c='r')
-    plt.axvline(x=3.57, ymin=0, ymax=1, c='r'   )
-
 if save:
     name = str(nb_epochs) + '_' + str(nb_last) + '_' + str(number_of_steps) + '_' + str(xmin) + '_' + str(xmax) + '.png'
     plt.savefig(name)
