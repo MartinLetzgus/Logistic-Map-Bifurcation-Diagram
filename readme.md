@@ -32,7 +32,7 @@ There are several parameters you can play with :
 ## Some results
 
 <p align="center">
-<img src="pngs/0to4.png.png" height="200"/><img src="pngs/0to4wlines.png" height="200"/>
+<img src="pngs/0to4.png" height="200"/><img src="pngs/0to4wlines.png" height="200"/>
 <img src="pngs/2dot6to4.png" height="200"/><img src="pngs/10000_100_0.0001_3.4_3.6_False.png" height="200"/>
 <img src="pngs/10000_100_0.0001_3.4_3.6_True.png" height="200"/><img src="pngs/10000_100_10000_3.568_3.588.png" height="200"/>height="200"/><img src="pngs/10000_100_10000_3.568_3.588_withlines.png" height="200"/>
 </p>
